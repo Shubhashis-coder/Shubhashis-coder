@@ -4,6 +4,34 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhashis-coder" alt="shubhashis-coder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubhashismon11" target="blank"><img src="https://img.shields.io/twitter/follow/shubhashismon11?logo=twitter&style=for-the-badge" alt="shubhashismon11" /></a> </p>
+<pre>var developements = {
+    <span class="pl-s"><span class="pl-pds">"</span>Web Development<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [ <span class="pl-s"><span class="pl-pds">"</span>HTML<span class="pl-pds">"</span></span> , <span class="pl-s"><span class="pl-pds">"</span>CSS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>JavaScript<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>TypeScript<span class="pl-pds">"</span></span> ] ,
+        <span class="pl-s"><span class="pl-pds">"</span>Frameworks<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [ <span class="pl-s"><span class="pl-pds">"</span>Node.js<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Express.js<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>MongoDB<span class="pl-pds">"</span></span>, 
+                        <span class="pl-s"><span class="pl-pds">"</span>MySQL<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>React<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Angular<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Ejs<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Bootstrap<span class="pl-pds">"</span></span> ]
+    }
+    <span class="pl-s"><span class="pl-pds">"</span>Native App Development<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>HTML<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>XML<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>JAVA<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>TypeScript<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>SCSS<span class="pl-pds">"</span></span> ] ,
+        <span class="pl-s"><span class="pl-pds">"</span>Frameworks &amp; Tools<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Angular<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Ionic<span class="pl-pds">"</span></span>,  <span class="pl-s"><span class="pl-pds">"</span>Gradle<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Android Studio<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Google APIs<span class="pl-pds">"</span></span>]
+    }
+    <span class="pl-s"><span class="pl-pds">"</span>Desktop App Development<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>] ,
+        <span class="pl-s"><span class="pl-pds">"</span>Libraries<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Tkinter<span class="pl-pds">"</span></span>]
+    }
+    <span class="pl-s"><span class="pl-pds">"</span>Machine Learning<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>] ,
+        <span class="pl-s"><span class="pl-pds">"</span>Libraries<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Numpy<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Pandas<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Matplotlib<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Sklearn<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>OpenCV<span class="pl-pds">"</span></span> ]
+    }
+    <span class="pl-s"><span class="pl-pds">"</span>Ethical Hacking<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>] ,
+        <span class="pl-s"><span class="pl-pds">"</span>System<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Kali Linux<span class="pl-pds">"</span></span>]
+    }
+    <span class="pl-s"><span class="pl-pds">"</span>Game Development<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> {
+        <span class="pl-s"><span class="pl-pds">"</span>Languages<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>C++<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>Python<span class="pl-pds">"</span></span>],
+        <span class="pl-s"><span class="pl-pds">"</span>Libraries<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>UE libraries<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Pygame<span class="pl-pds">"</span></span>],
+        <span class="pl-s"><span class="pl-pds">"</span>Editors<span class="pl-pds">"</span></span> <span class="pl-c1">:</span> [<span class="pl-s"><span class="pl-pds">"</span>Unreal Engine<span class="pl-pds">"</span></span>]
+    }
+}</pre>
 
 - 🌱 I’m currently learning **programming languages**
 
