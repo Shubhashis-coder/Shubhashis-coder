@@ -63,5 +63,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhashis-coder&show_icons=true&locale=en" alt="shubhashis-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhashis-coder&" alt="shubhashis-coder" /></p>
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://camo.githubusercontent.com/c90ba647f8e3cc0e079821fe7a1b1c1b34394b55ed032bca171a5988b58a25c7/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d73756469702d6d6f6e64616c2d323030322662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Shubhashis-coder&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width:100%;"></a></p>
+
