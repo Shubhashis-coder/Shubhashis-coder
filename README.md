@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **ANYTHING**
 
-- 📫 How to reach me **https://www.facebook.com/subhasis.mondal.33046/ , shubhashis2002mondal@gmail.com**
+- 📫 How to reach me **https://www.facebook.com/profile.php?id=100070383164630 , shubhashis2002mondal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhasis-mondal-81a255205/](https://www.linkedin.com/in/shubhashis-mondal-81a255205/)
 
@@ -50,8 +50,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhashismon11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhashismon11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhashis-mondal-81a255205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhasis-mondal-81a255205" height="30" width="40" /></a>
-<a href="https://www.facebook.com/friends/requests/?profile_id=100070383164630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shubhasis Mondal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhashis-mondal-81a255205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhashis-mondal-81a255205" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070383164630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shubhasis Mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhasis_m_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhasis_m_ng" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXpWn8ePqNoM32I99z7GQ2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxpwn8epqnom32i99z7gq2w" height="30" width="40" /></a>
 </p>
